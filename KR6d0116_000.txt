@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說濟諸方等學經
+#+DATE: 2015-08-30 19:50:15.672002
+#+PROPERTY: JUAN 0
